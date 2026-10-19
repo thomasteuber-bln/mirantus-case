@@ -24,3 +24,5 @@ Then:
 4. When `output/04-prototype-brief.md` exists, tell Claude to build one clickable flow with the Design artifact. Save the link in `output/05-prototype.md`.
 
 When one input changes, delete the output files of the steps you rerun.
+
+/export function is not available in Claude Code Desktop, so the transcript is the session logs.
