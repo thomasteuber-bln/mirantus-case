@@ -22,3 +22,5 @@ Then:
 2. Read `output/02-synthesis.md`. Reply with which one flow the memo should use.
 3. Let steps 3 and 4 write the memo and the prototype brief.
 4. When `output/04-prototype-brief.md` exists, tell Claude to build one clickable flow with the Design artifact. Save the link in `output/05-prototype.md`.
+
+When one input changes, delete the output files of the steps you rerun.
