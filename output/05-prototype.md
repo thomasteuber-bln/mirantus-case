@@ -2,7 +2,7 @@
 
 Flow A, one clickable flow, built from `output/04-prototype-brief.md` and `data/constraints.md`.
 
-Link: https://claude.ai/artifact/BZ72zi9K348i7ZeeAiVru6 (private until shared from the page's Share menu)
+Link: https://claude.ai/artifact/BZ72zi9K348i7ZeeAiVru6 
 
 Screens: ophthalmologist interval field → "Ihr Ergebnis ist da" e-mail (consent re-ask if no consent) → report box → reminder e-mail at due date → booking at the optician.
 
